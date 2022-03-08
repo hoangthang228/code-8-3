@@ -1,15 +1,15 @@
-const CONFIG = {
+Hconst CONFIG = {
     titleWeb: "Chuc Mưng 8-3 <3",
-    introTitle: 'các bạn gái ',
-    introDesc: `Ngày 8/3 đã đến rồi, chúc một nửa xinh đẹp của thế giới luôn thành công và hạnh phúc trong cuộc sống.`,
+    introTitle: 'Hoàng Thị Ngọc Hà ',
+    introDesc: `Ngày 8/3 đã đến rồi, chúc một nửa xinh đẹp của thế giới luôn thành công và hạnh phúc trong cuộc sống. Chúc bé 8-3 vui vẻ bên gia đình`,
     btnIntro: '^^HiHi^^',
-    title: 'xin lỗi vì đã không mua quà cho các bạn được 🥰',
+    title: 'xin lỗi vì đã không mua quà cho bạn được 🥰',
     desc: 'im sorry ',
     btnYes: 'không sao <33',
     btnNo: 'hôm khác bù :3',
-    question: 'các bạn cho mình xin lỗi nha <3',
+    question: 'bạn cho mình xin lỗi nha <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'okeeeeeeee <33333333',
-    mess: 'tớ biết mà 🥰. Yêu các bạn nhiều nhiều 😘😘',
+    reply: 'yêu bée <33333333',
+    mess: 'tớ biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     btnAccept: 'Okiiiii lun <3',
 }
